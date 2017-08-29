@@ -1,0 +1,47 @@
+﻿l_english:
+ #Basic Stuff
+ FACTION_LEADER:0 "Faction leader: §Y$COUNTRY$§!"
+ FACTION_MEMBER:0 "Faction member: §Y$COUNTRY$§!"
+ FACTION_NAME_IDEOLOGY_DEFAULT:0 "Unterstützer von $IDEOLOGY$"
+ #Fictional Alliances
+ allied_powers:0 "Alliertemacht"
+ axis_powers:0 "Achsenmächte"
+ baltic_alliance:0 "Baltische Allianz"
+ central_powers:0 "Zentrale Macht"
+ comintern_powers:0 "Cominterner Pakt"
+ entente_powers:0 "Vereinbarungsmacht"
+ #ENG
+ british_alliance:0 "Londoner Pakt"
+ british_commonwealth:0 "Britischeallianz"
+ #ETH
+ african_alliance:0 "Afrikanischeallianz"
+ #FRA
+ french_alliance:0 "Bordeaux Pakt"
+ #GER
+ german_alliance:0 "Berlinerallianz"
+ german_alliance_communist:0 "Berlin International"
+ holy_roman_alliance:0 "Heiligerromanallianz"
+ #ISR
+ levantine_alliance:0 "Levantineallianz"
+ #ITA
+ ITA_roman_empire:0 "Die Romanallianz"
+ #JAP
+ japanese_alliance_communist:0 "Ostasiatischen Union der Völker"
+ japanese_alliance_democratic:0 "Ostasiatischee Defensive Union"
+ japanese_alliance_fascist:0 "Großer ostasiatischer Co-Wohlstand"
+ #PRC
+ shanghai_pact:0 "Shanghai Pakt"
+ #SAU
+ peninsula_shield_force:0 "Halbinsel Schild Kraft"
+ #SOV
+ CSTO:0 "CSTO"
+ #SWI
+ swiss_alliance:0 "Schweizer Schutzallianz"
+ #UKR
+ guam_alliance:0 "GUAM"
+ ukrainian_alliance:0 "Kiev Allianz"
+ #USA
+ freedom_league:0 "Freiheits Allianz"
+ monroe_alliance:0 "Monroe Allianz"
+ NATO:0 "NATO"
+ washington_pact:0 "Washington Pakt"
